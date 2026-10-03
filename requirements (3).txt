@@ -1,0 +1,2 @@
+yfinance>=0.2.40
+kafka-python-ng>=2.2.2
